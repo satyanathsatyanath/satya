@@ -13,7 +13,8 @@ This repository contains various AWS projects related to [brief description of y
 - **EC2 URL(BACKEND)**: [http://13.126.165.42:7199/website_chat]
 - **EC2 URL(UI)**: [http://13.126.165.42:5884/stmarkvillageQA]
 - **EC2 URL(MLFLOW)**: [http://13.126.165.42:5000/]
-- **LAMBDA URL(BACKEND)**: [https://gqbwty27frkykn3vxj7hnlbppi0unkyq.lambda-url.ap-south-1.on.aws/]
+**LAMBDA FUNCTION NAME(BACKEND)**:[Website_QA]
+  - **LAMBDA URL(BACKEND)**: [https://gqbwty27frkykn3vxj7hnlbppi0unkyq.lambda-url.ap-south-1.on.aws/]
 - **Structure**: The input should be in JSON format with the following structure:
   - **Example**:
     ```json
