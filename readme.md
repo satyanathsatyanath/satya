@@ -7,43 +7,19 @@ This repository contains various AWS projects related to [brief description of y
 
 ## Projects
 
-### Project 1: []
-- **Description**: [Brief description of the project]
-- **AWS Services Used**: [e.g., S3, EC2, Lambda]
-- **URL**: [Link to project resources, documentation, or application]
+### Project 1: [SE_Website_QA (stmarkvillageQA)]
+- **Description**: [ChatBot Of SwiftExtract contains all the UI,mlflow,backend URL's]
+- **AWS Services Used**: [EC2, Lambda]
+- **EC2 URL(BACKEND)**: [http://13.126.165.42:7199/website_chat]
+- **EC2 URL(UI)**: [http://13.126.165.42:5884/stmarkvillageQA]
+- **EC2 URL(MLFLOW)**: [http://13.126.165.42:5000/]
+- **LAMBDA URL(BACKEND)**: [https://gqbwty27frkykn3vxj7hnlbppi0unkyq.lambda-url.ap-south-1.on.aws/]
+- **Structure**: The input should be in JSON format with the following structure:
+  - **Example**:
+    ```json
+    {
+      "Question":""
+    }
+    ```
 
-### Project 2: [Project Name]
-- **Description**: [Brief description of the project]
-- **AWS Services Used**: [e.g., RDS, CloudFormation]
-- **URL**: [Link to project resources, documentation, or application]
 
-### Project 3: [Project Name]
-- **Description**: [Brief description of the project]
-- **AWS Services Used**: [e.g., DynamoDB, SNS]
-- **URL**: [Link to project resources, documentation, or application]
-
-## Setup Instructions
-
-1. **Prerequisites**: [List any prerequisites, such as AWS CLI configuration, required IAM roles, etc.]
-2. **Installation**: [Steps to set up the project, e.g., clone the repo, install dependencies]
-3. **Configuration**: [Any configuration steps required to run the project]
-
-## Usage
-
-[Instructions on how to use the project, including command-line usage, web interface instructions, or API endpoints]
-
-## Contribution
-
-[Guidelines for contributing to the project, if applicable]
-
-## License
-
-[Details about the project's license]
-
-## Contact
-
-For any questions or issues, please contact [Your Name/Email].
-
----
-
-Feel free to customize this template based on the specific needs of your projects and how you want to structure the information.
