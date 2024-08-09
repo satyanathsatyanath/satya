@@ -34,15 +34,15 @@
 
 | S.No | Project / PocName | Deployed On | FrontEnd URL | Description | BackEnd URL | MLFLOW URL | Status | OpenSource/ 3rd Party API | Remarks |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1.0 | Swift Insights ChatBot | AWS Lambda | nan | nan | https://st2rqlvrnub57t52ahnze5sn3y0mqnlh.lambda-url.ap-south-1.on.aws/ | nan | Active | OPENAI - GPT 3.5 Turbo | nan |
-| 2.0 | SI Q&A - Demo | AWS Lambda | nan | nan | https://btsxutmstdmwbmgf5acb3iuzsu0hfxci.lambda-url.ap-south-1.on.aws/ | http://43.204.54.237:8081/ | Active | OPENAI - GPT 3.5 Turbo | used in newdevapp.swiftinsights.ai |
-| 3.0 | SI Q&A - Playground | AWS Lambda | nan | nan | https://iejf46tynfiuydxbhw5iifvs340jnwbm.lambda-url.ap-south-1.on.aws/ | http://43.204.54.237:8081/ | Active | OPENAI - GPT 3.5 Turbo | used in dsapp.swiftinsights.ai |
-| 4.0 | SI Baijnath Jewellers | AWS Lambda | nan | nan | nan | nan | nan | nan | nan |
-| 5.0 | St Marks Living chatbot | AWS EC2 | http://13.126.165.42:5884/stmarkvillageQA | nan | http://13.126.165.42:7199/website_chat | http://13.126.165.42:5000/ | Not Active | nan | on demand |
-| 6.0 | Amnet Digital website chatbot(Swift Insights) | AWS Lambda | nan | nan | https://4vo6otqcd6qgqrpkl6pig6rmxe0vnxik.lambda-url.ap-south-1.on.aws/ | nan | Active | Runpod | used in www.swiftinsights.ai/ |
-| 7.0 | Swift Extract Demo | AWS EC2 | nan | nan | nan | nan | nan | nan | nan |
-| 8.0 | Image tampering Detection | nan | nan | nan | nan | nan | nan | nan | nan |
-| 9.0 | MAM | DGX | http://10.10.0.212:4888/dashboard | Downscale input video resolution to 416*416 | http://10.10.0.212:6996/get_video/
+| 1 | Swift Insights ChatBot | AWS Lambda | nan | nan | https://st2rqlvrnub57t52ahnze5sn3y0mqnlh.lambda-url.ap-south-1.on.aws/ | nan | Active | OPENAI - GPT 3.5 Turbo | nan |
+| 2 | SI Q&A - Demo | AWS Lambda | nan | nan | https://btsxutmstdmwbmgf5acb3iuzsu0hfxci.lambda-url.ap-south-1.on.aws/ | http://43.204.54.237:8081/ | Active | OPENAI - GPT 3.5 Turbo | used in newdevapp.swiftinsights.ai |
+| 3 | SI Q&A - Playground | AWS Lambda | nan | nan | https://iejf46tynfiuydxbhw5iifvs340jnwbm.lambda-url.ap-south-1.on.aws/ | http://43.204.54.237:8081/ | Active | OPENAI - GPT 3.5 Turbo | used in dsapp.swiftinsights.ai |
+| 4 | SI Baijnath Jewellers | AWS Lambda | nan | nan | nan | nan | nan | nan | nan |
+| 5 | St Marks Living chatbot | AWS EC2 | http://13.126.165.42:5884/stmarkvillageQA | nan | http://13.126.165.42:7199/website_chat | http://13.126.165.42:5000/ | Not Active | nan | on demand |
+| 6 | Amnet Digital website chatbot(Swift Insights) | AWS Lambda | nan | nan | https://4vo6otqcd6qgqrpkl6pig6rmxe0vnxik.lambda-url.ap-south-1.on.aws/ | nan | Active | Runpod | used in www.swiftinsights.ai/ |
+| 7 | Swift Extract Demo | AWS EC2 | nan | nan | nan | nan | nan | nan | nan |
+| 8 | Image tampering Detection | nan | nan | nan | nan | nan | nan | nan | nan |
+| 9 | MAM | DGX | http://10.10.0.212:4888/dashboard | Downscale input video resolution to 416*416 | http://10.10.0.212:6996/get_video/
  | nan | Not Active | nan | nan |
 | nan | nan | nan | nan | Product and background detection | http://10.10.0.212:8006/infer | nan | Not Active | nan | nan |
 | nan | nan | nan | nan | Athlete detection  | http://10.10.0.212:8099/get_faces/ | nan | Not Active | nan | nan |
