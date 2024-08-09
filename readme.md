@@ -31,5 +31,17 @@
     }
     ```
 
+
+| S.No | Project / PocName | Deployed On | FrontEnd URL | BackEnd URL | MLFLOW URL | Status | OpenSource/ 3rd Party API | Remarks |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Swift Insights ChatBot | AWS Lambda | nan | https://st2rqlvrnub57t52ahnze5sn3y0mqnlh.lambda-url.ap-south-1.on.aws/ | nan | Active | OPENAI - GPT 3.5 Turbo | nan |
+| 2 | SI Q&A - Demo | AWS Lambda | nan | https://btsxutmstdmwbmgf5acb3iuzsu0hfxci.lambda-url.ap-south-1.on.aws/ | http://43.204.54.237:8081/ | Active | nan | used in newdevapp.swiftinsights.ai |
+| 3 | SI Q&A - Playground | AWS Lambda | nan | https://iejf46tynfiuydxbhw5iifvs340jnwbm.lambda-url.ap-south-1.on.aws/ | http://43.204.54.237:8081/ | Active | nan | used in dsapp.swiftinsights.ai |
+| 4 | St Marks Living chatbot | AWS EC2 | http://13.126.165.42:5884/stmarkvillageQA | http://13.126.165.42:7199/website_chat | http://13.126.165.42:5000/ | Not Active | nan | on demand |
+| 5 | Amnet Digital website chatbot(Swift Insights) | AWS Lambda | nan | https://4vo6otqcd6qgqrpkl6pig6rmxe0vnxik.lambda-url.ap-south-1.on.aws/ | nan | nan | Runpod | nan |
+| 6 | Swift Extract Demo | nan | nan | nan | nan | nan | nan | nan |
+| 7 | Image tampering Detection | nan | nan | nan | nan | nan | nan | nan |
+| 8 | MAM | DGX | nan | nan | nan | nan | nan | nan |
+| 9 | LDS | DGX | nan | nan | nan | nan | nan | nan |
     
 
